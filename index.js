@@ -30,7 +30,6 @@ function selectDifferentDrivers(drivers, callback){
 
 
 
-
 /* let createFareMultiplier = function(int){
     returns fareQuad(int) {
         int * 4;
